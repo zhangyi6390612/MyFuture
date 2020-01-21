@@ -18,7 +18,7 @@
     <properties>
         <spring-context>5.0.5.RELEASE</spring-context>
         <spring-web>5.0.5.RELEASE</spring-web>
-        <spring-webmvc>5.0.5.RELEASE</spring-webmvc>
+        <spring-webmvc>5.1.0.RELEASE</spring-webmvc>
         <spring-tx>5.0.5.RELEASE</spring-tx>
         <spring-jdbc>5.0.5.RELEASE</spring-jdbc>
         <spring-aop>5.0.5.RELEASE</spring-aop>
