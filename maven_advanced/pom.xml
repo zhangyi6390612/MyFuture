@@ -17,7 +17,7 @@
     <!--锁jar包版本信息-->
     <properties>
         <spring-context>5.0.5.RELEASE</spring-context>
-        <spring-web>5.0.5.RELEASE</spring-web>
+        <spring-web>6.0.0</spring-web>
         <spring-webmvc>5.0.5.RELEASE</spring-webmvc>
         <spring-tx>5.0.5.RELEASE</spring-tx>
         <spring-jdbc>5.0.5.RELEASE</spring-jdbc>
